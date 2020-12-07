@@ -2,7 +2,7 @@
 
 <div class="col-md-4" align="center">
    <img class="rotet-im"
-        src="https://shop.bauhaus-movement.com/media/3696/catalog/less-is-more.png?size=600"
+        src="./less-is-more.png"
         alt="">
 </div>
 
