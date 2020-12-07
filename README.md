@@ -1,6 +1,7 @@
-<div class="g-media" >
-	<img class="g-image fit-cover" src="https://shop.bauhaus-movement.com/media/3705/pagebuilder/3705.png" />
-</div>
+<img src="https://shop.bauhaus-movement.com/media/3705/pagebuilder/3705.png" align="right" alt="" width="180"/>
+
+<img src="https://shop.bauhaus-movement.com/media/3707/pagebuilder/3707.png" align="left" alt="" width="180"/>
+
 
 <div class="col-md-4" align="center">
    <img class="rotet-im"
@@ -8,7 +9,4 @@
         alt="">
 </div>
 
-<div class="g-media" >
-	<img class="g-image" src="https://shop.bauhaus-movement.com/media/3707/pagebuilder/3707.png" />
-</div>
 
